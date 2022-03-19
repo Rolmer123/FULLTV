@@ -1,4 +1,4 @@
-# XTM3U
+#XTM3U
 #EXTINF:-1 tvg-id="" tvg-name="##### ESP GENERAL #####" tvg-logo="" group-title="|ES| GENERAL",##### ESP GENERAL #####
 http://line.dino-ott.ru:80/6052037877/f1ee6fd523/505544
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="ES - LA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/la1.png" group-title="|ES| GENERAL",ES - LA 1 HD
